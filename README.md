@@ -1,8 +1,11 @@
 # occupation-coding
 These R codes are for automated occupation coding in R.
 For implementing the codes, the following conditions must be met.
+
 (1) Both training and test data are in either data.frame or matrix forms.
+
 (2) The first column of a data set must contain numerical occupation codes.
+
 
 For more details about each method, please see 
 
