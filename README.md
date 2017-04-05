@@ -7,6 +7,6 @@ For implementing the codes, the following conditions must be met.
 (2) The first column of a data set must contain numerical occupation codes.
 
 
-For more details about each method, please see 
+For more detail about each method, please see 
 
 H. Gweon, M. Schonlau, L. Kaczmirek, M. Blohm, S. Steiner. Three Methods for Occupation Coding Based on Statistical Learning. Journal of Official Statistics. Volume 33, Issue 1, Pages 101–122, 2017.
